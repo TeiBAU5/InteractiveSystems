@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c8jNmaxmCxL14VdpuU7pQIAwavOovTp3VoBqCtR5RRTJS8ai1OWLTfcrzSJgTV9JOVbd3S1OrPPcAvvs7GIjEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio\\C#\\CSE3902\\CSE3902_Sprint0\\CSE3902_Sprint0\\CSE3902_Sprint0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aubert\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Aubert\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
